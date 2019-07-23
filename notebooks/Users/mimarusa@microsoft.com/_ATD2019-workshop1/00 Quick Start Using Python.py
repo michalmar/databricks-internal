@@ -5,7 +5,7 @@
 
 # COMMAND ----------
 
-# Take a look at the file system XXX
+# Take a look at the file system XXXYYY
 display(dbutils.fs.ls("/databricks-datasets/samples/docs/"))
 
 # COMMAND ----------
